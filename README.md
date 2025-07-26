@@ -10,7 +10,7 @@ Inspired by the popular “100 Days of Code” format, I committed to coding eve
 
 What’s Inside?
 
-Beginner Projects: Simple calculators, password generators, number guessing games 🎲
+Beginner Projects: Simple calculators, higher or lower, coffee machine🎲
 
 Intermediate Projects: APIs, web scraping, data visualization 📊
 
