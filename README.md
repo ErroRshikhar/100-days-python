@@ -1,4 +1,3 @@
-﻿# 100-days-python
 # 100-days-python
 100 Days of Python Projects 🚀🐍
 
